@@ -74,7 +74,7 @@ const TOKEN_FILE_PATH = path.join(__dirname, 'accessToken.txt');
     } else {
       console.error('🚨 Tribe not found!'.red);
       console.log(
-        `Join HCA Tribe here: https://t.me/HappyCuanAirdrop/19694\n`.blue
+        `Join PC Tribe here: https://t.me/p2crypto\n`.blue
       );
     }
 
